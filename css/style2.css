@@ -1,0 +1,25 @@
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 9px;
+    background-color: #1d2124;
+}
+
+.button-2 {
+    float: left;
+    font-size: 15.5px;
+    background-color: #1d1d1d;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 4px 8px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button-2:hover {
+    background-color: #fbaf32;
+    color: rgb(0, 0, 0);
+}
